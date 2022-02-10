@@ -1,0 +1,31 @@
+body {
+     text-align: center;
+    background-color: cornflowerblue;
+    width: 80%;
+    height: vh;
+    margin-top: 50%;
+    display: grid;
+    place-items: centre;
+    margin: 10px auto;
+    margin-top: 60%;
+}
+
+textarea{
+  font-family: sans-serif;
+  padding: 10px 20px;
+  text-align: justify;
+  border: 0;
+  outline:0;
+  color: red;
+  box-shadow:inset 2px 3px 5px gray;
+}
+
+button{
+  padding: 19px 20px ;
+  border: 0px ;
+  background-color: brown;
+  color: white;
+  outline: 0;
+  border-radius: 8px;
+  
+}
